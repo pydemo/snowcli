@@ -36,4 +36,9 @@ Snow> COPY INTO MYDB.MYSCHEMA.MY_TABLE FROM '@MY_STAGE/MY_TABLE/'FILES=('test.cs
 ![Screenshot](https://raw.githubusercontent.com/pydemo/snowcli/master/snowcli.PNG)
 
 
+### Other scrips
+
+https://github.com/pydemo/s3cli
+
+
 
