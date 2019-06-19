@@ -27,7 +27,7 @@ host:/home/user/snowcli $ ~/python3/bin/python3 main.py
 Snow>
 ```
 
-## Preview compressed file on AWS S3
+##Load file into Snowflake table.
 
 ```
 Snow> COPY INTO MYDB.MYSCHEMA.MY_TABLE FROM '@MY_STAGE/MY_TABLE/'FILES=('test.csv.gz') 
