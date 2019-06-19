@@ -5,7 +5,7 @@ Snowflake DB SQL shell/cli
 Preview gz S3 files in shell/cli interface.
 
 
-## Set environment
+## Set environment for pyodbc
 
 ```
 export SNOWFLAKE_ROLE=my_role
