@@ -8,12 +8,6 @@ Preview gz S3 files in shell/cli interface.
 ## Set environment
 
 ```
-host:/home/user/s3cli $ ~/python3/bin/python3 main.py
-Provide bucket name.
-```
-
-## Cli entry
-
 export SNOWFLAKE_ROLE=my_role
 export SNOWFLAKE_SERVER=MYDATAART
 export SNOWFLAKE_WSID=my-wsid
@@ -25,6 +19,9 @@ export SNOWFLAKE_SCHEMA=MYSCHEMA
 export SNOWFLAKE_USER=dev_test
 export SNOWFLAKE_PWD=mypwd
 export SNOWFLAKE_AUTHENTICATOR=https://test.okta.com;uid=dev-testt@test.com
+```
+
+## Cli entry
 
 
 ```
