@@ -1,8 +1,6 @@
 # snowcli
 Snowflake DB SQL shell/cli
 
-# snowcli
-Preview gz S3 files in shell/cli interface.
 
 
 ## Set environment for pyodbc
