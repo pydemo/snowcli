@@ -38,7 +38,11 @@ Snow> COPY INTO MYDB.MYSCHEMA.MY_TABLE FROM '@MY_STAGE/MY_TABLE/'FILES=('test.cs
 
 ### Other scrips
 
-https://github.com/pydemo/s3cli
+https://github.com/pydemo/Snowpipe-For-SQLServer - Memory pipe from SQLServer to Snowflake
+
+https://github.com/pydemo/large-file-split-compress-parallel-upload-to-S3 - Chunked large file upload to S3.
+
+https://github.com/pydemo/s3cli - S3 cli
 
 
 
