@@ -44,5 +44,5 @@ https://github.com/pydemo/large-file-split-compress-parallel-upload-to-S3 - Chun
 
 https://github.com/pydemo/s3cli - S3 cli
 
-
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
 
