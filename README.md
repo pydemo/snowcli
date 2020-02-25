@@ -1,3 +1,5 @@
+[I'm looking for a new gig](https://github.com/pydemo/Resume)
+
 # snowcli
 Snowflake DB SQL shell/cli
 
